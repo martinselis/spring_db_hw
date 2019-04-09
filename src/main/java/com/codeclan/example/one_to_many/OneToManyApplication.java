@@ -1,13 +1,13 @@
-package com.codeclan.example.employee_db;
+package com.codeclan.example.one_to_many;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmployeeDbApplication {
+public class OneToManyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeeDbApplication.class, args);
+		SpringApplication.run(OneToManyApplication.class, args);
 	}
 
 }
